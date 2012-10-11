@@ -1,0 +1,25 @@
+{
+  "project_page": "UNKNOWN",
+  "license": "UNKNOWN",
+  "version": "0.0.1",
+  "source": "UNKNOWN",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "tests/init.pp": "9263b8962ddf2e86b95b5ce81ce27700",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "README": "0e0aada9fe777ab3bd44d2945801c543",
+    "Modulefile": "9ed8ded41dcd10c7c07e66d57323393a",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "manifests/init.pp": "8be1e95f7b8bd8c8dbbd72825b6f9115"
+  },
+  "description": "UNKNOWN",
+  "types": [
+
+  ],
+  "summary": "UNKNOWN",
+  "author": "site",
+  "name": "site-firewall",
+  "dependencies": [
+
+  ]
+}
